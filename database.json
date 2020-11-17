@@ -1,0 +1,16 @@
+{
+  "matches": [
+    {
+      "homeTeam": "Liverpool",
+      "awayTeam": "Arsenal",
+      "homeTeamScore": "1",
+      "awayTeamScore": "1",
+      "duration": "90",
+      "startTime": "2020-11-20T04:00",
+      "endTime": "2020-11-20T05:30",
+      "league": "English",
+      "isActive": "Yes",
+      "id": 1
+    }
+  ]
+}
